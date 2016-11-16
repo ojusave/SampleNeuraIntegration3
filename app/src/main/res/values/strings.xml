@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleNeuraIntegration</string>
+    <string name="app_uid">1b9432723e24d9df511f390ac421f76207631485ca91811124b65224684ab3fd</string>
+    <string name="app_secret">7978c8ee91c6b70ead2a1936df95a67d5d1d535a2be1ab090045bc4125679aaa</string>
+</resources>
